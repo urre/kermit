@@ -1,4 +1,4 @@
-# Project Name
+# Kermit
 
 Markdown theme for Sublime Text.
 
@@ -14,8 +14,7 @@ Preferences -> Settings more -> Syntax specific - User
 {
     "auto_indent": false,
     "caret_style": "smooth",
-    "color_scheme": "Packages/kermit.tmTheme",
-    ...
+    "color_scheme": "Packages/kermit.tmTheme"
 }
 ```
 
